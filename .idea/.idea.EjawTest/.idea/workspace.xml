@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a58fd5d4-088b-462d-a1d7-141cca576560" name="Default Changelist" comment="" />
+    <list default="true" id="a58fd5d4-088b-462d-a1d7-141cca576560" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TimeDisplay.cs" root0="FORCE_HIGHLIGHTING" />
@@ -36,6 +44,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1qWhiatE6Vyn8cK778LOYGKTT4r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,8 +83,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617201386278</updated>
-      <workItem from="1617201387518" duration="26105000" />
+      <workItem from="1617201387518" duration="26549000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1617376975915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617376975915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,12 +102,22 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="863" y="238" key="RiderGenerateDialog" timestamp="1617230154526">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="863" y="238" key="RiderGenerateDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1617230154526" />
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1617376997343">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1617376997343" />
+    <state x="792" y="446" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1617376911326">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="792" y="446" key="git4idea.remote.GitConfigureRemotesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1617376911326" />
     <state x="654" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1617375246940">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
